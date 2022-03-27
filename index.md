@@ -3,7 +3,7 @@
 - Origem: [Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Shell_script).
 - Licença: [Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons](https://creativecommons.org/licenses/by-sa/3.0/deed.pt)
 
-Shell script é o nome dado a um arquivo que será interpretado por algum programa tipo Shell. Atualmente existem vários programas tipo Shell. Além dos principais - sh e bash -, existem também, ksh, zsh, csh e tcsh. Um Shell script (ou script em Shell) necessita basicamente do interpretador Shell. Algumas operações típicas executadas por linguagens de script em Shell incluem; manipulação de arquivos, execução de programas e impressão de texto. Sendo assim é muito comum que scripts sejam utilizados para automatização de tarefas - como configurar o ambiente, executar um programa e fazer qualquer limpeza, registro, etc. Esss tarefas executadas por scripts em Shell são conhecidas mais popularmente como *Shell Wrappers*.
+Shell script é o nome dado a um arquivo que será interpretado por algum programa tipo Shell. Atualmente existem vários programas tipo Shell. Além dos principais - sh e bash -, existem também, ksh, zsh, csh e tcsh. Um Shell script (ou script em Shell) necessita basicamente do interpretador Shell. Algumas operações típicas executadas por linguagens de script em Shell incluem: manipulação de arquivos, execução de programas e impressão de texto. Sendo assim, é muito comum que scripts sejam utilizados para automatização de tarefas - como configurar o ambiente, executar um programa e fazer qualquer limpeza, registro, etc. Esss tarefas executadas por scripts em Shell são conhecidas mais popularmente como *Shell Wrappers*.
 
 ```{toctree}
 01-historia.md
