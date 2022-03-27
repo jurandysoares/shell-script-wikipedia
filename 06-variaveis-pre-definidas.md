@@ -10,3 +10,4 @@ Os scripts em Shell possuem as seguintes variáveis pré-definidas:
 linguagens de programação C e C++;
 - `$!` - Armazena o PID do último processo em segundo plano. Isso é útil para acompanhar o processo à medida que o trabalho é realizado;
 - `$0, ..., $9` - Armazena os valores de todos os parâmetros de linha de comando separadamente.
+

@@ -9,3 +9,4 @@ Para remover uma variável, utiliza-se o comando `unset` + `nome da variável`. 
 unset VAR
 unset VAR1 VAR2 VAR3 VAR4
 ```
+

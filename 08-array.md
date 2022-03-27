@@ -9,3 +9,4 @@ Bourne Shell (sh) não é compatível com variáveis tipo array, mas Bourne-Agai
 meu_array=(1 2 3 4 5 6 7 8 9)
 meu_Array=("abc" "def" "ghi")
 ```
+

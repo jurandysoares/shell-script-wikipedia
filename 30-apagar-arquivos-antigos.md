@@ -10,3 +10,4 @@ Apagar periodicamente arquivos mais velhos que 30 dias do diretório `/tmp`:
 cd /tmp
 find . -type f -mtime +30 -delete
 ```
+

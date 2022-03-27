@@ -31,3 +31,4 @@ Há duas formas de criar uma variável global, exportar uma variável pré defin
    ```bash
    export VARIAVEL2=Teste
    ```
+

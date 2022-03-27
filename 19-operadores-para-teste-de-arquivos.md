@@ -18,3 +18,4 @@
  | `-x`       | Verifica se o arquivo é executável; se sim, então a condição se torna verdadeira.                                                    | `[ -x /etc/resolv.conf ]` |
  | `-s`       | Verifica se o arquivo tem tamanho maior que 0; se sim, então a condição se torna verdadeira.                                         | `[ -s /etc/resolv.conf ]` |
  | `-e`       | Verifica se o arquivo existe; é verdadeiro mesmo se o arquivo for um diretório, mas existe.                                          | `[ -e /etc/resolv.conf ]` |
+

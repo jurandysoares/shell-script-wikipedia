@@ -7,3 +7,4 @@ Material sobre shell script extraído e formatado da [Wikipedia](https://pt.wiki
 
 Publicação: \<<https://mange.ifrn.edu.br/shell-script-wikipedia/>\>
 
+
