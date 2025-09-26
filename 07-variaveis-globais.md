@@ -3,8 +3,7 @@
 # Variáveis Globais
 
 Variáveis globais ou variáveis de ambiente globais, são variáveis criadas/definidas com o comando export e
-podem ser utilizadas por multiplos scripts em Shell. Um exemplo é a variável de ambiente `LANG` (Pré-
-definida em diversas distribuições Linux), Podendo ser acessada por diversos arquivos de script em Shell.
+podem ser utilizadas por multiplos scripts em Shell. Um exemplo é a variável de ambiente `LANG`[^1]. Podendo ser acessada por diversos arquivos de script em Shell.
 Outras variáveis pré definidas são:
 
 - `PATH`: define diretórios de procura por programas executados no shell;
@@ -32,3 +31,4 @@ Há duas formas de criar uma variável global, exportar uma variável pré defin
    export VARIAVEL2=Teste
    ```
 
+[^1]: Pré-definidas em diversas distribuições Linux.
