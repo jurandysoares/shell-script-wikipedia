@@ -71,3 +71,10 @@ html_context = {
     "github_version": "main/", # Version
     #"conf_py_path": "/source/", # Path in the checkout to the docs root
 }
+
+
+# -- Options for LaTeX output ------------------------------------------------
+
+latex_documents = [
+    ('index', 'shell-script-wikipedia.pdf', 'Shell script', 'Wikipedia', 'manual'),
+]
