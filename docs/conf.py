@@ -76,5 +76,5 @@ html_context = {
 # -- Options for LaTeX output ------------------------------------------------
 
 latex_documents = [
-    ('index', 'shell-script-wikipedia.pdf', 'Shell script', 'Wikipedia', 'manual'),
+    ('index', 'shell-script-wikipedia.tex', 'Shell script', 'Wikipedia', 'manual'),
 ]
