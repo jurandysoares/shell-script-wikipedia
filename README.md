@@ -22,6 +22,7 @@ Breve explicação:
 
 1. O comando `make htmllive` permitirá você visualizar em tempo real a documentação no formato HTML. Isto permite que você faça as alterações, adaptações ou correções no código fonte e já veja o resultado;
 2. O comando `make html` irá gerá a versão HTML da documentação no diretório `./docs/_build/html`;
-3. O comando `make latexpdf` irá gerar a versão PDF da documentação no arquivo `./docs/_build/latex/shell-script-wikipedia.pdf`.
+3. O comando `make latexpdf` irá gerar a versão PDF da documentação no arquivo `./docs/_build/latex/shell-script-wikipedia.pdf`[^2].
 
 [^1]: Em algumas distribuições Linux, ela está disponível no pacote `python3-venv` ou `py3-venv`.
+[^2]: Em distribuições Debian/Ubuntu, instale antes o pacote `texlive-full`, que ocupa entre 4GB a 5GB de espaço em disco.
