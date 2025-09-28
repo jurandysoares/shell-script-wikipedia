@@ -4,7 +4,7 @@ Material sobre shell script extraído, formatado e adaptado de [Wikipedia](https
 
 Publicação: <https://mange.ifrn.edu.br/shell-script-wikipedia/>
 
-## Índice do conteúdo
+## Sumário
 
 - [História](docs/01-historia.md)
 - [Funcionalidades e Capacidades](docs/02-funcionalidades-e-capacidades.md)
