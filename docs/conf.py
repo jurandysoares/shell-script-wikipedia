@@ -68,8 +68,8 @@ html_context = {
     "display_github": True, # Integrate GitHub
     "github_user": "jurandysoares", # Username
     "github_repo": "shell-script-wikipedia", # Repo name
-    "github_version": "main/", # Version
-    "conf_py_path": "docs/", # Path in the checkout to the docs root
+    "github_version": "main", # Version
+    "conf_py_path": "/docs/", # Path in the checkout to the docs root
 }
 
 
